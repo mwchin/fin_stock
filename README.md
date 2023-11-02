@@ -22,5 +22,4 @@ Stock analysis is essential for making informed investment decisions. This proje
 ## Requirements
 
 - Python 3.x
-- Required Python packages listed in `requirements.txt`
 
